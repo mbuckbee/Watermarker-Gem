@@ -6,7 +6,7 @@ module Watermarker
     @base_uri = 'https://watermarker.expeditedaddons.com'
 
     # Your API Key
-    @api_key = 'TODO: Replace'
+    @api_key = ENV['WATERMARKER_API_KEY']
 
     # create the getters and setters
     class << self
