@@ -50,7 +50,7 @@ data = wm.lookup("https://www.expeditedaddons.com/base.png","https://www.expedit
 ```
 
 *Watermarked File* 
-![Resized File](resized.png)
+![Resized File](base-with-watermark.png)
 
 *Base File*
 ![Base File](https://www.expeditedaddons.com/base.png)
